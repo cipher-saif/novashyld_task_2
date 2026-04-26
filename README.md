@@ -376,7 +376,7 @@ openssl enc -d -aes-256-cbc -pbkdf2 -in file.txt.enc -out decrypted_file.txt
 
 The complete internship report for Task 2 is available in the repository. It includes detailed explanations of all concepts, step-by-step methodology, command breakdowns, and annotated screenshots.
 
-[Download Full Report](Report/Task_2_Report.pdf)
+[Download Full Report](Report/NovaShyld_Task_2_Report.docx)
 
 ---
 
